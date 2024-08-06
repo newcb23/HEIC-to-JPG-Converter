@@ -58,7 +58,7 @@ To run the application locally, follow these steps:
 
 ## Live Demo
 
-You can also check out a live demo of the application at [heic.com](https://heic.com).
+You can also check out a live demo of the application at [heic.ai](https://heic.ai).
 
 ## Contributing
 
