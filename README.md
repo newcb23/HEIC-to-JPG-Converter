@@ -58,7 +58,7 @@ To run the application locally, follow these steps:
 
 ## Live Demo
 
-You can also check out a live demo of the application at [heic.ai](https://heic.ai).
+You can also check out the [HEIC to JPG Converter](https://heic.ai).
 
 ## Contributing
 
